@@ -94,7 +94,9 @@ In most of the cases, I feel Robot will do whatever you want to do. It's support
 
 Robot Framework setup:
 https://www.tutorialspoint.com/robot_framework
+
 https://www.youtube.com/watch?v=oY1JSpVk5ek&list=PLhW3qG5bs-L_yjwGfRkdySzVKCbV7ciaX
+
 https://github.com/robotframework/robotframework/blob/master/INSTALL.rst
 
 Install python2.7
@@ -115,8 +117,11 @@ After RED plugin install on Eclipse Goto Window->Preference->robotframework ->In
 Goto Window->Perspective->Open Perspective-> Open Robot Editor
 
 File->Create Robot Project
+
 Create Robot test suite (testrobot)
+
 Paste below script (python) on testrobot.robot file
+
 Automatically add library to red.xml (compare to pom.xml)by pressing Ctrl+1 on error.
 
 *** Settings ***
